@@ -27,7 +27,7 @@
 
 [**VIP-Only**] **Note**, **Markdown-Support**, Split-Preview, Support-Image-Hosting
 多平台笔记应用，只能开会员，不然只能体验一个月，价格不高，倾向于内部使用(分享功能体验一般)，相比有道云的同步速度略慢 (只能开会员……不大好安利
-> [[为知笔记]](https://www.wiz.cn/)
+> [[为知笔记官网]](https://www.wiz.cn/)
 
 ### 1.5 GitBook
 [Free-**Limited**] **Markdown-Support**, Split-Preview, Support-Image-Hosting
@@ -58,5 +58,6 @@ PicGo——**图片上传&管理软件**——**目前图床管理最佳体验**
 ## 2.1 Windows Store App
 
 ### 2.1.1 Snipaste
-最新版已经是自带应用了，Win牛逼！
+最新版Win已经自带此应用了，Win牛逼！
 > [[Snipaste官网]](https://www.snipaste.com)
+截图
