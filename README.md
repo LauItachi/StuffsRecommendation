@@ -6,11 +6,12 @@
 > Note, Markdown (逐渐抛弃Word
 
 ### GitNote
-> [Free] Git, Note, Markdownable, Muti-ImageHosting
+> [Free] Git, Note, Markdownable, Muti-Image-Hosting
 > [[GitNote官方链接]](https://gitnoteapp.com/)
 
 ### Typora
-> [Free] Markdown, local
+> [Free] Markdown, Local-Image-Storage
+> [[Typora官方链接]](https://typora.io)
 
 ### YoudaoNote 有道云笔记
 
