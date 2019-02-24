@@ -27,11 +27,12 @@
 
 [**VIP-Only**] **Note**, **Markdown-Support**, Split-Preview, Support-Image-Hosting
 多平台笔记应用，只能开会员，不然只能体验一个月，价格不高，倾向于内部使用(分享功能体验一般)，相比有道云的同步速度略慢 (只能开会员……不大好安利
+> [[为知笔记]](https://www.wiz.cn/)
 
 ### 1.5 GitBook
 [Free-**Limited**] **Markdown-Support**, Split-Preview, Support-Image-Hosting
 支持一个私有Repo一个公开Repo，国内连接不便，有梯子的推荐使用，功能强大，没有就别试了不方便的
-> [[
+> [[GitBook官网]](http://gitbook.io)
 
 ### 1.x Image-Hosting
 提到MarkDown，图床一定是个恼人的小妖精，比起word文档里直接拖一个图片进去，MarkDown需要自行管理/托管图片文件，再次推荐一些搭配工具，调调口味:D
