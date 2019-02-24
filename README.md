@@ -38,8 +38,9 @@
 [**Free**] Support-Preview&History, **Muti**-Image-Hosting
 >[[PicGo官方链接]](https://molunerfinn.com/PicGo/)
 
-**一款图片上传&管理软件**
-支持微博图床、七牛图床、腾讯云COS、又拍云、GitHub、SM.MS、阿里云OSS、Imgur
-2.0版本支持开发插件实现其他图床的上传需求
+PicGo——**图片上传&管理软件**
+支持macOS,Windows,Linux
+* 支持微博图床、七牛图床、腾讯云COS、又拍云、GitHub、SM.MS、阿里云OSS、Imgur
+* 2.0版本支持开发插件实现其他图床的上传需求
 
 
