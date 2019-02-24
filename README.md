@@ -64,4 +64,5 @@ PicGo——**图片上传&管理软件**——**目前图床管理最佳体验**
 
 ps: 高效截图最佳体验——Win + Shift + S
 
-### 2.1.2 
+### 2.1.2 我的电脑UWP版
+> [[我的电脑UWP版]](https://www.microsoft.com/zh-cn/p/my-computer/9nrnmhmhm4wc)
