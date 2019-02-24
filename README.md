@@ -29,4 +29,5 @@
 
 ### 1.5 GitBook
 [Free-**Limited**] **Markdown-Support**, Split-Preview, Support-Image-Hosting
+支持一个私有Repo一个公开Repo，国内连接不便，有梯子的推荐使用，
 
