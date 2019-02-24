@@ -49,5 +49,5 @@ PicGo——**图片上传&管理软件**——**目前图床管理最佳体验**
 > [[PicGo中阿里云OSS配置]](https://picgo.github.io/PicGo-Doc/zh/guide/config.html#%E9%98%BF%E9%87%8C%E4%BA%91oss)
 
 # Windows应用
-> 作为一名不合格的
+> 作为一名合格的win党，不能不知道——[Windows 中的键盘快捷方式]](https://support.microsoft.com/zh-cn/help/12445/windows-keyboard-shortcuts)
 
