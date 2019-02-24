@@ -45,7 +45,7 @@ PicGo——**图片上传&管理软件**——**目前图床管理最佳体验**
 - 2.0版本支持开发插件实现其他图床的上传需求
 
 #### 1.x.1 阿里云OSS+PicGo
-*目前正在使用
+*目前正在使用，体验良好
 > [[PicGo中阿里云OSS配置]](https://picgo.github.io/PicGo-Doc/zh/guide/config.html#%E9%98%BF%E9%87%8C%E4%BA%91oss)
 
 
