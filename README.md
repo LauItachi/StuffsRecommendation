@@ -9,6 +9,7 @@
 > [Free] Git, Note, Markdown-Support, Muti-Image-Hosting
 > [[GitNote官方链接]](https://gitnoteapp.com/)
 
+需要在通过Git写笔记或文章的可以考虑，当前本文的编写正在体验中
 
 ### Typora
 > [Free] Live-Preview, Markdown-Only, Local-Image-Storage
