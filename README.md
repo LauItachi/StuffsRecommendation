@@ -24,9 +24,9 @@
 
 ### 1.4 WizNote 为知笔记
 
-[VIP-Only] **Note**, **Markdown-Support**, Split-Preview, Support-Image-Hosting
+[**VIP-Only**] **Note**, **Markdown-Support**, Split-Preview, Support-Image-Hosting
 多平台笔记应用，只能开会员，不然只能体验一个月，价格不高，倾向于内部使用(分享功能体验一般)，相比有道云的同步速度略慢 (只能开会员……不大好安利
 
 ### 1.5 GitBook
-[Free-Limited] 
+[Free-**Limited**] **Markdown-Support**, Split-Preview, Support-Image-Hosting
 
