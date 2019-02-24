@@ -53,16 +53,18 @@ PicGo——**图片上传&管理软件**——**目前图床管理最佳体验**
 
 # 2. Windows应用
 > 作为一名合格的win党，不能不知道——[[Windows 中的键盘快捷方式]](https://support.microsoft.com/zh-cn/help/12445/windows-keyboard-shortcuts)
-> 当然，这些全都是在win10状态下的推荐，低版本系统不保证使用体验
+> 当然，这些全都是在win10状态下的推荐，其他系统不保证使用体验
 
 ## 2.1 Windows Store App (UWP)
 
-### 2.1.1 Snipaste
+### 2.1.1 Snipaste UWP版
 *截图贴图最佳体验
 最新版Win已经自带此应用了，Win牛逼！
 > [[Snipaste官网]](https://www.snipaste.com)
+> [[Snipaste UWP版]](https://www.microsoft.com/store/productId/9P1WXPKB68KX)
 
 ps: 高效截图最佳体验——Win + Shift + S
 
 ### 2.1.2 我的电脑UWP版
 > [[我的电脑UWP版]](https://www.microsoft.com/zh-cn/p/my-computer/9nrnmhmhm4wc)
+
