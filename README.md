@@ -2,4 +2,4 @@
  Recommend some stuffs like software, plugins, resources...
 
 ## GitNote
-> Git, Note, Markdown, 
+> Git, Note, Markdownable, Muti-ImageHosting
