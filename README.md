@@ -18,8 +18,10 @@
 *目前的**本地**编辑**MarkDown**最佳体验就是Typora了
 
 ### 1.3 YoudaoNote 有道云笔记
-[Free/VIP] **Note**, **Markdown-Support**, Split-Preview, **VIP**-Image-Hosting
+[Free/VIP] **Note**, **Markdown-Support**, Split-Preview, **VIP-Support**-Image-Hosting
 
 多平台笔记应用，开会员的话体验极佳，基本可以不考虑其他的，但是价格略高
 
 ### WizNote 为知笔记
+
+[VIP-Only] **Note**, **Markdown-Support**, Split-Preview, Support-Image-Hosting
