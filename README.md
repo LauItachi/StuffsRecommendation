@@ -60,4 +60,7 @@ PicGo——**图片上传&管理软件**——**目前图床管理最佳体验**
 ### 2.1.1 Snipaste
 最新版Win已经自带此应用了，Win牛逼！
 > [[Snipaste官网]](https://www.snipaste.com)
-截图
+
+*截图贴图最佳体验
+ps: 高效截图最佳体验——Win+shift+S
+### 2.1.2 
