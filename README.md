@@ -36,5 +36,8 @@
 
 #### 1.x.0 PicGo
 [**Free**] Support-Preview&History, **Muti**-Image-Hosting
+>[[PicGo官方链接]](https://molunerfinn.com/PicGo/)
+
 一款
+
 
