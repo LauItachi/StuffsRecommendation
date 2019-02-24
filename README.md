@@ -9,7 +9,7 @@
 [**Free**] **Git**, **Note**, **Markdown-Support**, Split-Preview, **Muti**-Image-Hosting
 > [[GitNote官方链接]](https://gitnoteapp.com/)
 
-需要在通过**Git**写**笔记或文章**的可以考虑，当前本文的编写正在体验中
+需要在通过**Git**写**笔记或文章**的可以考虑，当前本文的编写正在使用中，体验良好
 
 ### 1.2 Typora
 [**Free**] Live-Preview, **Markdown**-Only, **Local**-Image-Storage
@@ -48,5 +48,6 @@ PicGo——**图片上传&管理软件**——**目前图床管理最佳体验**
 *目前正在使用，体验良好
 > [[PicGo中阿里云OSS配置]](https://picgo.github.io/PicGo-Doc/zh/guide/config.html#%E9%98%BF%E9%87%8C%E4%BA%91oss)
 
-
+# Windows应用
+> 作为一名不合格的
 
