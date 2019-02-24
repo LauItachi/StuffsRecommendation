@@ -20,9 +20,10 @@
 ### 1.3 YoudaoNote 有道云笔记
 [Free/VIP] **Note**, **Markdown-Support**, Split-Preview, **VIP**-Support-Image-Hosting
 
-多平台笔记应用，开会员的话体验极佳，基本可以不考虑其他的，但是价格略高，而且倾向于内部使用()
+多平台笔记应用，开会员的话体验极佳，基本可以不考虑其他的，但是价格略高，而且倾向于内部使用(分享功能体验一般)
 
 ### WizNote 为知笔记
 
 [VIP-Only] **Note**, **Markdown-Support**, Split-Preview, Support-Image-Hosting
+多平台笔记应用，只能开会员，不然只能体验价格不高，而且倾向于内部使用(分享功能体验一般)
 
