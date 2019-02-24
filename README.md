@@ -35,12 +35,15 @@
 提到MarkDown，图床一定是个恼人的小妖精，比起word文档里直接拖一个图片进去，MarkDown需要自行管理/托管图片文件，再次推荐一些搭配工具，调调口味:D
 
 #### 1.x.0 PicGo
+**图床管理最佳体验*
 [**Free**] Support-Preview&History, **Muti**-Image-Hosting
 >[[PicGo官方链接]](https://molunerfinn.com/PicGo/)
 
 PicGo——**图片上传&管理软件**
-支持macOS,Windows,Linux
-* 支持微博图床、七牛图床、腾讯云COS、又拍云、GitHub、SM.MS、阿里云OSS、Imgur
-* 2.0版本支持开发插件实现其他图床的上传需求
+- 支持macOS,Windows,Linux
+- 支持微博图床、七牛图床、腾讯云COS、又拍云、GitHub、SM.MS、阿里云OSS、Imgur
+- 2.0版本支持开发插件实现其他图床的上传需求
+
+
 
 
