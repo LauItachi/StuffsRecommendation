@@ -35,5 +35,6 @@
 提到MarkDown，图床一定是个恼人的小妖精，比起word文档里直接拖一个图片进去，MarkDown需要自行管理/托管图片文件，再次推荐一些搭配工具，调调口味:D
 
 #### 1.x.0 PicGo
-[Free] Support-Preview**Muti**-Image-Hosting
+[**Free**] Support-Preview&History, **Muti**-Image-Hosting
+一款
 
