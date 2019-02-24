@@ -7,13 +7,13 @@
 
 ### 1.1 GitNote
 [**Free**] **Git**, **Note**, **Markdown-Support**, Split-Preview, **Muti**-Image-Hosting
-> [[GitNote官方链接]](https://gitnoteapp.com/)
+> [[GitNote官网]](https://gitnoteapp.com/)
 
 需要在通过**Git**写**笔记或文章**的可以考虑，当前本文的编写正在使用中，体验良好
 
 ### 1.2 Typora
 [**Free**] Live-Preview, **Markdown**-Only, **Local**-Image-Storage
-> [[Typora官方链接]](https://typora.io)
+> [[Typora官网]](https://typora.io)
 
 *目前的**本地**编辑**MarkDown**最佳体验就是Typora了
 
@@ -55,4 +55,5 @@ PicGo——**图片上传&管理软件**——**目前图床管理最佳体验**
 ## 2.1 Windows Store App
 
 ### 2.1.1 Snipaste
-最新版已经是
+最新版已经是自带应用了，Win牛逼！
+> [[Snipaste官网]](https://www.snipaste.com)
