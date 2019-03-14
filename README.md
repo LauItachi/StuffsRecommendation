@@ -85,6 +85,8 @@ ps: 高效截图最佳体验——Win + Shift + S
 
 ### Listary
 
+[[Listary官网]](https://www.listary.com/)
+
 正版渠道：[[淘宝-数码荔枝]](https://item.taobao.com/item.htm?spm=a1z10.4-c-s.w4004-15090511739.31.4def7120UmhTE8&id=535605099433)
 
 ## 2.3 日常使用
@@ -92,8 +94,8 @@ ps: 高效截图最佳体验——Win + Shift + S
 ### IDM
 
 什么？Internet Download Manager还要介绍？？别问，用就是了！
-[[IDM官网]](https://www.internetdownloadmanager.com/)，支持下载试用，反正用着用着就
-正版渠道：[[蓝点网]](https://www.landiannews.com/archives/46841.html)、[[淘宝-数码荔枝]](https://item.taobao.com/item.htm?spm=a1z10.1-c-s.w4004-15090511571.3.747f7311Qj8m81&id=535928527337)
+> [[IDM官网]](https://www.internetdownloadmanager.com/)，支持下载试用，反正用着用着就离不开了orz
+> 正版渠道：[[蓝点网]](https://www.landiannews.com/archives/46841.html)、[[淘宝-数码荔枝]](https://item.taobao.com/item.htm?spm=a1z10.1-c-s.w4004-15090511571.3.747f7311Qj8m81&id=535928527337)
 
 # 3. Chrome 插件
 
