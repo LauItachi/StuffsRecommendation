@@ -93,7 +93,8 @@ ps: 高效截图最佳体验——Win + Shift + S
 
 ### Octotree
 
-GitHub左侧显示当前Repo目录 [[ChromeStore->Octotree]](https://chrome.google.com/webstore/detail/octotree/bkhaagjahfmjljalopjnoealnfndnagc/related?utm_source=chrome-app-launcher-info-dialog
+GitHub左侧显示当前Repo目录 
+> [[ChromeStore->Octotree]](https://chrome.google.com/webstore/detail/octotree/bkhaagjahfmjljalopjnoealnfndnagc/related?utm_source=chrome-app-launcher-info-dialog
 )
 
 ### ImTranslator
@@ -104,12 +105,13 @@ GitHub左侧显示当前Repo目录 [[ChromeStore->Octotree]](https://chrome.goog
 
 ### Dark Reader
 
-给网页加个暗黑滤镜，比换主题来的方便 [[ChromeStore->Dark Reader]](https://chrome.google.com/webstore/detail/dark-reader/eimadpbcbfnmbkopoojfekhnkhdbieeh)
+给网页加个暗黑滤镜，比换主题来的方便
+> [[ChromeStore->Dark Reader]](https://chrome.google.com/webstore/detail/dark-reader/eimadpbcbfnmbkopoojfekhnkhdbieeh)
 
 ### FireShot
 
-捕捉网页截图，整个页面和选定部分都行
-[[ChromeStore->FireShot]](https://chrome.google.com/webstore/detail/take-webpage-screenshots/mcbpblocgmgfnpjjppndjkmgjaogfceg)
+捕捉网页截图，整个页面和选定部分都行，Pro版支持截图后编辑
+> [[ChromeStore->FireShot]](https://chrome.google.com/webstore/detail/take-webpage-screenshots/mcbpblocgmgfnpjjppndjkmgjaogfceg)
 
 ---
 施工ing……
