@@ -60,12 +60,12 @@ PicGo——**图片上传&管理软件**——**目前图床管理最佳体验**
 ## 2.1 Windows Store App (UWP)
 
 ### 2.1.1 Snipaste UWP版
-*截图贴图最佳体验
+***截图贴图最佳体验**
 最新版Win已经自带此应用了，Win牛逼！
 > [[Snipaste官网]](https://www.snipaste.com)
 > [[Snipaste UWP版]](https://www.microsoft.com/store/productId/9P1WXPKB68KX)
 
-ps: 高效截图最佳体验——Win + Shift + S
+ps: **高效截图**最佳体验——`Win + Shift + S`
 
 ### 2.1.2 我的电脑UWP版
 > [[我的电脑UWP版]](https://www.microsoft.com/zh-cn/p/my-computer/9nrnmhmhm4wc)
@@ -77,8 +77,8 @@ ps: 高效截图最佳体验——Win + Shift + S
 ### 2.1.4 One Calendar
 
 日历应用，支持添加多账号同步
-账号支持Microsoft、Exchange、GMail、Facebook、iCloud等
-平台支持Win、IOS、Android
+账号支持 Microsoft、Exchange、GMail、Facebook、iCloud等
+平台支持 Win、IOS、Android
 > [[One Calendar官网]](https://www.onecalendar.nl/download/store)
 
 ## 2.2 工作效率
