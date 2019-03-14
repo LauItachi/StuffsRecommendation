@@ -77,7 +77,7 @@ ps: 高效截图最佳体验——Win + Shift + S
 ### 2.1.4 One Calendar
 
 日历应用，支持添加Microsoft账号同步，支持win/IOS/Android
-> [](https://www.onecalendar.nl/download/store)
+> [[One Calendar官网]](https://www.onecalendar.nl/download/store)
 
 ## 2.2 工作效率
 
