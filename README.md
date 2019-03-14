@@ -70,7 +70,9 @@ ps: 高效截图最佳体验——Win + Shift + S
 ### 2.1.2 我的电脑UWP版
 > [[我的电脑UWP版]](https://www.microsoft.com/zh-cn/p/my-computer/9nrnmhmhm4wc)
 
-### Sticky Notes 便签
+### 2.1.3 Sticky Notes 便签/便利贴
+
+自带的应用
 
 ## 2.2 工作效率
 
