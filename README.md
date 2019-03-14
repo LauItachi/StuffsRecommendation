@@ -76,7 +76,7 @@ ps: 高效截图最佳体验——Win + Shift + S
 
 ### 2.1.4 One Calendar
 
-日历应用，支持添加Microsoft账号同步，支持win/IOS/Android
+日历应用，支持添加多账号同步，账号支持：Microsoft、，平台支持Win/IOS/Android
 > [[One Calendar官网]](https://www.onecalendar.nl/download/store)
 
 ## 2.2 工作效率
