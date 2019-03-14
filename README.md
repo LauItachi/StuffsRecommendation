@@ -70,7 +70,14 @@ ps: 高效截图最佳体验——Win + Shift + S
 
 # 3. Chrome Extensions
 
-## 3.1 
+## 3.1 工作效率
+
+* Octotree
+
+GitHub左侧显示当前Repo目录 [[ChromeStore->Octotree]](https://chrome.google.com/webstore/detail/octotree/bkhaagjahfmjljalopjnoealnfndnagc/related?utm_source=chrome-app-launcher-info-dialog
+)
+
+## 
 
 施工ing……
 
