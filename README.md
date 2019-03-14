@@ -91,7 +91,9 @@ ps: 高效截图最佳体验——Win + Shift + S
 ### IDM
 
 什么？Internet Download Manager还要介绍？？别问，用就是了！
-正版渠道：[蓝点网](https://www.landiannews.com/archives/46841.html)
+正版渠道：
+[蓝点网](https://www.landiannews.com/archives/46841.html)
+[淘宝-数码荔枝]()
 
 # 3. Chrome 插件
 
