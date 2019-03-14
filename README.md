@@ -89,7 +89,7 @@ GitHub左侧显示当前Repo目录 [[ChromeStore->Octotree]](https://chrome.goog
 
 ### FireShot
 
-捕捉网页截图
+捕捉网页截图，整个页面和选定部分都行
 [[ChromeStore->FireShot]](https://chrome.google.com/webstore/detail/take-webpage-screenshots/mcbpblocgmgfnpjjppndjkmgjaogfceg)
 
 ---
