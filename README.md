@@ -97,11 +97,15 @@ GitHub左侧显示当前Repo目录
 > [[ChromeStore->Octotree]](https://chrome.google.com/webstore/detail/octotree/bkhaagjahfmjljalopjnoealnfndnagc/related?utm_source=chrome-app-launcher-info-dialog
 )
 
-### ImTranslator
-
-翻译，支持定制快捷键、语言、平台 [[ChromeStore->ImTranslator]](https://chrome.google.com/webstore/detail/imtranslator-translator-d/noaijdpnepcgjemiklgfkcfbkokogabh)
 
 ## 3.2 日常使用
+
+### One
+
+### ImTranslator
+
+翻译，支持定制快捷键、语言、平台 
+> [[ChromeStore->ImTranslator]](https://chrome.google.com/webstore/detail/imtranslator-translator-d/noaijdpnepcgjemiklgfkcfbkokogabh)
 
 ### Dark Reader
 
