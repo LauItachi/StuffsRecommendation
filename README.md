@@ -51,6 +51,8 @@ PicGo——**图片上传&管理软件**——**目前图床管理最佳体验**
 *目前正在使用，体验良好
 > [[PicGo中阿里云OSS配置]](https://picgo.github.io/PicGo-Doc/zh/guide/config.html#%E9%98%BF%E9%87%8C%E4%BA%91oss)
 
+---
+
 # 2. Windows应用
 > 作为一名合格的win党，不能不知道——[[Windows 中的键盘快捷方式]](https://support.microsoft.com/zh-cn/help/12445/windows-keyboard-shortcuts)
 > 当然，这些全都是在win10状态下的推荐，其他系统不保证使用体验
@@ -67,6 +69,8 @@ ps: 高效截图最佳体验——Win + Shift + S
 
 ### 2.1.2 我的电脑UWP版
 > [[我的电脑UWP版]](https://www.microsoft.com/zh-cn/p/my-computer/9nrnmhmhm4wc)
+
+## 2.2 
 
 # 3. Chrome 插件
 
