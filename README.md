@@ -100,7 +100,10 @@ GitHub左侧显示当前Repo目录
 
 ## 3.2 日常使用
 
-### One
+### OneTab
+
+Tab管理，一收集
+> [[ChromeStore->OneTab]](https://chrome.google.com/webstore/detail/onetab/chphlpgkkbolifaimnlloiipkdnihall)
 
 ### ImTranslator
 
