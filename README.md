@@ -90,7 +90,8 @@ ps: 高效截图最佳体验——Win + Shift + S
 
 ### IDM
 
-什么？Internet Download Manager还要介绍？？用就是了
+什么？Internet Download Manager还要介绍？？别问，用就是了！
+
 
 # 3. Chrome 插件
 
