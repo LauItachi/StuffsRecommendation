@@ -87,7 +87,10 @@ GitHub左侧显示当前Repo目录 [[ChromeStore->Octotree]](https://chrome.goog
 
 给网页加个暗黑滤镜，比换主题来的方便 [[ChromeStore->Dark Reader]](https://chrome.google.com/webstore/detail/dark-reader/eimadpbcbfnmbkopoojfekhnkhdbieeh)
 
-### 
+### FireShot
+
+捕捉网页截图
+[[ChromeStore->FireShot]](https://chrome.google.com/webstore/detail/take-webpage-screenshots/mcbpblocgmgfnpjjppndjkmgjaogfceg)
 
 ---
 施工ing……
