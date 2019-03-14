@@ -85,7 +85,7 @@ ps: 高效截图最佳体验——Win + Shift + S
 
 ### Listary
 
-强化Win下的键盘能力必备，当然
+强化Win下的键盘能力必备，当然如果你用`Win+E`和`Win+Q`很熟练的话不用问题也不大
 
 > [[Listary官网]](https://www.listary.com/)
 > 正版渠道：[[淘宝-数码荔枝]](https://item.taobao.com/item.htm?spm=a1z10.4-c-s.w4004-15090511739.31.4def7120UmhTE8&id=535605099433)
