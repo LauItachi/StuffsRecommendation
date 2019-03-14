@@ -85,9 +85,10 @@ ps: 高效截图最佳体验——Win + Shift + S
 
 ### Listary
 
-[[Listary官网]](https://www.listary.com/)
+强化Win下的键盘能力必备，当然
 
-正版渠道：[[淘宝-数码荔枝]](https://item.taobao.com/item.htm?spm=a1z10.4-c-s.w4004-15090511739.31.4def7120UmhTE8&id=535605099433)
+> [[Listary官网]](https://www.listary.com/)
+> 正版渠道：[[淘宝-数码荔枝]](https://item.taobao.com/item.htm?spm=a1z10.4-c-s.w4004-15090511739.31.4def7120UmhTE8&id=535605099433)
 
 ## 2.3 日常使用
 
